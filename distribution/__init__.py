@@ -1,0 +1,6 @@
+from .normal_distribution import normal_dist
+from .binomical_distribution import binomical_dist
+from .uniform_discrete_distribution import uniform_dist
+from .geometrical_distribution import geom_dist
+from .poisson_distribution import poisson_dist
+from .expomemtional_distribution import exp_dist
